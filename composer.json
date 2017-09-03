@@ -1,0 +1,12 @@
+{
+    "name": "nickn/phpexel",
+    "authors": [
+        {
+            "name": "Nick Sergeychuk",
+            "email": "nicknixer@gmail.com"
+        }
+    ],
+    "require": {
+        "PHPOffice/PHPExcel": "^1.8"
+    }
+}
